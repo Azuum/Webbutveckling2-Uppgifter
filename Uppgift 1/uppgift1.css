@@ -1,4 +1,40 @@
-/* Detta ör CSS-filen som du kan börja skriva sidans CSS i.
+body {
+  font-family: Arial;
+  background-color: #e6b6b6;
+}
+
+#bild {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#bild2 {
+  float: right;
+  margin: 3px;
+}
+
+#bild3 {
+  float: left;
+  margin: 3px;
+}
+
+#skapare {
+   border: 1px solid red;
+   text-align: center;
+   padding: 20px;
+}
+
+#warp {
+  background-color: white;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#italic {
+  font-style: italic;
+}/* Detta ör CSS-filen som du kan börja skriva sidans CSS i.
  * CSS-filen är redan länkad i HTML-filen 'uppgift1.html'
  */
- 
